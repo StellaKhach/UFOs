@@ -15,3 +15,11 @@ There are multiple different filters for conducting a search. The first filter w
 
 The second filter I applied was to see all sightings on 1/10/2010 that took place in California. For this filter, I changed the state to CA. I also wanted to see how many sightings in California were shaped as a Sphere. So I applied the Shape filter as well. Below is the result.
 ![Screen Shot 2022-08-22 at 9 40 07 PM](https://user-images.githubusercontent.com/92186586/186071197-bf0c0bdf-5519-48a2-bb10-acf0fb4a40e7.png)
+
+
+#Summary
+
+One Drawback of this webpage is that the filters don't have a drop down. So in order to filter by city, the user would have to scroll down and find the city to filter by. 
+
+One recommendation would be to add a drop down for the user to filter by instead of typing. 
+Another recommendation to view easier would be to allow for filters such as ascending/descending order of dates and all other fields. 
