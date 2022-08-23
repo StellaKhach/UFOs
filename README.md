@@ -11,4 +11,7 @@ In order to create the new filters, we reference the code that is already in pla
 # Results
 
 There are multiple different filters for conducting a search. The first filter we can use is the date. For that filter, I chose the date 1/13/2010 amd clicked the "Filter Table" button.
-![Screen Shot 2022-08-22 at 9 34 03 PM](https://user-images.githubusercontent.com/92186586/186070491-e68ce6a6-1e91-4e56-8752-d9738db906ae.png)
+![Screen Shot 2022-08-22 at 9 36 11 PM](https://user-images.githubusercontent.com/92186586/186070711-ca207424-e742-4264-a08e-6d3c0cc14ad9.png)
+
+The second filter I applied was to see all sightings on 1/10/2010 that took place in California. For this filter, I changed the state to CA. I also wanted to see how many sightings in California were shaped as a Sphere. So I applied the Shape filter as well. Below is the result.
+![Screen Shot 2022-08-22 at 9 40 07 PM](https://user-images.githubusercontent.com/92186586/186071197-bf0c0bdf-5519-48a2-bb10-acf0fb4a40e7.png)
